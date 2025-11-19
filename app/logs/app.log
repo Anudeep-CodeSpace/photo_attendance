@@ -1,0 +1,35 @@
+[2025-11-20 02:57:46,711] [INFO] 🚀 Starting application... prewarming models...
+[2025-11-20 02:57:46,711] [INFO] 🚀 Starting application... prewarming models...
+[2025-11-20 02:57:46,711] [INFO] 🔥 Model prewarm completed.
+[2025-11-20 02:57:46,711] [INFO] 🔥 Model prewarm completed.
+[2025-11-20 03:00:23,473] [INFO] 🛑 Shutting down application.
+[2025-11-20 03:00:23,473] [INFO] 🛑 Shutting down application.
+[2025-11-20 03:02:05,007] [INFO] 🚀 Starting application... prewarming models...
+[2025-11-20 03:02:05,007] [INFO] 🔥 Model prewarm completed.
+[2025-11-20 03:02:27,465] [INFO] 🛑 Shutting down application.
+[2025-11-20 03:06:50,433] [INFO] 🚀 Starting application... prewarming models...
+[2025-11-20 03:06:50,433] [INFO] 🔥 Model prewarm completed.
+[2025-11-20 03:29:05,946] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 03:29:05,947] [INFO] 🔥 App startup (models warm-up, services ready)
+[2025-11-20 03:30:57,365] [INFO] 🔻 App shutdown complete
+[2025-11-20 03:34:12,412] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 03:34:12,413] [INFO] 🔥 App startup (models warm-up, services ready)
+[2025-11-20 03:40:25,615] [INFO] 🔻 App shutdown complete
+[2025-11-20 03:40:37,560] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 03:40:37,560] [INFO] 🚀 FastAPI app setup complete. Ready to serve requests.
+[2025-11-20 03:40:37,561] [INFO] 🔥 App startup (models warm-up, services ready)
+[2025-11-20 03:47:12,489] [INFO] 🔻 App shutdown complete
+[2025-11-20 03:47:24,368] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 03:47:24,368] [INFO] 🚀 FastAPI setup complete. Ready to serve requests.
+[2025-11-20 03:47:24,369] [INFO] 🔥 App startup (warm-up models if needed)
+[2025-11-20 04:10:38,006] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 04:10:38,007] [INFO] 🚀 FastAPI setup complete. Ready to serve requests.
+[2025-11-20 04:10:38,007] [INFO] 🔥 App startup (warm-up models if needed)
+[2025-11-20 04:10:50,050] [INFO] 🔻 App shutdown complete
+[2025-11-20 04:11:34,651] [INFO] 📁 Serving frontend from: /Users/anudeep/Desktop/backend/app/frontend_dist
+[2025-11-20 04:11:34,652] [INFO] 🚀 FastAPI setup complete. Ready to serve requests.
+[2025-11-20 04:11:34,652] [INFO] 🔥 App startup (warm-up models if needed)
+[2025-11-20 04:11:47,258] [WARNING] Invalid API key attempted.
+[2025-11-20 04:11:50,848] [WARNING] Invalid API key attempted.
+[2025-11-20 04:12:04,799] [INFO] API key verified successfully.
+[2025-11-20 04:16:35,983] [INFO] 🔻 App shutdown complete
