@@ -187,7 +187,7 @@ fetch("/register_students", {
 
 ---
 
-## Future Improvements (Optional)
+## Future Improvements
 
 * JWT-based user login
 * Role-based admin/student panels
